@@ -30,3 +30,8 @@ It groups 4% values all the way up to 50% values together in one color. While co
 values, it is relatively high, the range of which this is categorized is too large. You wouldn't know if a value
 is 4% or 49%. I would improve the map by spliting the values into at least 3 more categories. This would more
 clearly convey how large the values are.
+
+Additionally, the maps would be more insightful if there were more connections between the actual numerical values
+and the percentage values. At the moment, the percent fireworks map is heavily weighted towards lower percentages.
+The color scheme makes it seem it has more firework complaints than a place actually has, when in reality, the 
+percentage value is actually low (<20%).
